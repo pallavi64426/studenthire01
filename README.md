@@ -80,5 +80,3 @@ The theme configuration includes:
 
 ## 📦 Deployment
 
-
-Built with ❤️ on Rocket.new
